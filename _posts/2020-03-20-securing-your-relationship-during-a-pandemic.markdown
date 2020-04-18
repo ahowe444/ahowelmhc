@@ -2,7 +2,7 @@
 title: "Securing Your Relationship During a Pandemic"
 layout: post
 date: 2020-03-20 15:00
-image: ../assets/images/profile2.jpg
+image: ../assets/images/couple.jpg
 headerImage: true
 tag:
 - pandemic
