@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Allison Howe, LMHC
+bio: Licensed Mental Health Counselor in Saratoga Springs, NY who specializes in couple therapy. Allison has focused on the Psychobiological Approach to Couple Therapy (PACT) since 2011.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Allison Howe, LMHC
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,15 +14,15 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/PACT2020Resume1.pdf
 
-url: https://koppl.in/indigo
+url: https://ahowe444.github.io/ahowelmhc
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-26354931-4'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -34,37 +34,37 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: AllisonHoweLMHC
+#twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: allison-howe-b27a224
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ahowelmhc@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  ahowe:
+    name: Allison P Howe
+    bio: Licensed Mental Health Counselor
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    #twitter: johndoe
+  #jamesfoster:
+   # name: James Foster
+    #bio: A Man who develops software with coffee
+    #external-image: false
+    #picture: assets/images/james.jpg
+    #twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -80,7 +80,7 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
